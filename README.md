@@ -69,7 +69,7 @@ Bandwidth Per Second	~= 4.88 MB/s
 |--|--|
 | Daily Active Users (DAU) | 10 million |
 |Request Per Second (RPS) |5k/s | 
-|Storage (Per Day)	 | 10.1 TB|
+|Storage (Per Day)	 | 100GB|
 | Storage (10 years)| 3.65PB|
 |Bandwidth	 |4.88MB /s |
 
