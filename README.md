@@ -64,6 +64,15 @@ Storage Per Day	~= 100GB / per day
 Storage After 10 years	~= 3.65 PB 
 Bandwidth Per Second	~= 4.88 MB/s
 
+## High Level Estimation
+| Type	 | Estimate |
+|--|--|
+| Daily Active Users (DAU) | 10 million |
+|Request Per Second (RPS) |5k/s | 
+|Storage (Per Day)	 | 10.1 TB|
+| Storage (10 years)| 3.65PB|
+|Bandwidth	 |4.88MB /s |
+
 ## Data Model
 ![enter image description here](https://i.ibb.co/Lhn91NW/paypal-entity.png)
  
